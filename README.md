@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 👩‍🎓 I earned my PhD in Statistics from Monash University, Australia
 - I develop novel methods and tools for analyzing complex data
 - 🧑‍🔧 develop open source software tools to facilitate reproducible research
-- 🕸️ Visit my [Web](https://prital.netlify.app/) 
+- 🕸️  Visit my [🕸️ ](https://prital.netlify.app/) 
