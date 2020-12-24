@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👩‍💻 I am a statistician/data scientist 
+- I earned my PhD in Statistics from Monash University, Australia
+- I develop novel methods and tools for analyzing complex data
+- I develop open source software tools to facilitate reproducible research
+- Visit my Web page:
